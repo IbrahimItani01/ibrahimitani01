@@ -1,4 +1,4 @@
-<h1 align="center">Hallo Als 👋, I'm Ibrahim Itani</h1>
+<h1 align="center">Hallo Alle 👋, I'm Ibrahim Itani</h1>
 <h3 align="center">Passionate | Web Developer | Coffee Addict</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimitani01&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimitani01" /> </p>
