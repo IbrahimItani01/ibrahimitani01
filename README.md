@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimitani01" alt="ibrahimitani01" /></a> </p>
 
-- 🌱 I’m currently learning **Xampp,PHP,RDB, ...**
+- 🌱 I’m currently learning **Laravel, React-Redux, ...**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/burnabasos-projects](https://vercel.com/burnabasos-projects)
 
