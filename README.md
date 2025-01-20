@@ -14,8 +14,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Laravel, React-Redux, ...**
-- 👨‍💻 All of my projects are available at [My Projects](https://vercel.com/burnabasos-projects)
+- 🌱 I’m currently learning **Expo, Nestjs**
+- 👨‍💻 All of my projects are available at [Vercel](https://vercel.com/burnabasos-projects)
 - 💬 Ask me about **React, Next.js & Laravel**
 - 📫 How to reach me: **ib.itani01@gmail.com**
 - ⚡ Fun fact: **I like to read 📕**
