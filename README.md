@@ -66,6 +66,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+  </a>
 </p>
 
 
@@ -80,6 +86,9 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrq4Je7z6sTWiUmCy2ROVBWjrkv67wBxhDA&s" alt="Express.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+  </a>
 </p>
 
 
@@ -90,6 +99,9 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
 
