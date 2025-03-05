@@ -1,4 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/lebanon/IbrahimItani01.svg)](https://user-badge.committers.top/lebanon/IbrahimItani01)
+![profile_views](https://komarev.com/ghpvc/?username=IbrahimItani01)
 <img align="center" alt="gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" />
 
 <h1 align="center">Hallo Alle 👋, Willkommen to my World ✌️</h1>
